@@ -13,6 +13,28 @@ The single difference is the magic XOR value applied to the 8 count `u32`s in th
 | F.E.A.R. | 399 |
 | D187     | 246 |
 
+## Showcase
+
+Worlds packed with `1WorldPacker.dll` running live in S2 SonSilah (D187):
+
+<table>
+  <tr>
+    <td align="center" width="33%"><img src="images/dust2.jpg" width="260"><br><sub>Dust2</sub></td>
+    <td align="center" width="33%"><img src="images/iceworld.jpg" width="260"><br><sub>Iceworld</sub></td>
+    <td align="center" width="33%"><img src="images/iceworld1.jpg" width="260"><br><sub>Iceworld</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><img src="images/cafeteria.png" width="260"><br><sub>Cafeteria</sub></td>
+    <td align="center" width="33%"><img src="images/cafeteria1.jpg" width="260"><br><sub>Cafeteria</sub></td>
+    <td align="center" width="33%"><img src="images/deadwood.jpg" width="260"><br><sub>Deadwood</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><img src="images/rafinery.jpg" width="260"><br><sub>Rafinery</sub></td>
+    <td align="center" width="33%"><img src="images/rafinery2.jpg" width="260"><br><sub>Rafinery</sub></td>
+    <td align="center" width="33%"><img src="images/WorldEdit.jpg" width="260"><br><sub>WorldEdit packing</sub></td>
+  </tr>
+</table>
+
 ## Install
 
 1. Download the **F.E.A.R. SDK tools**.
