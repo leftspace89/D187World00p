@@ -71,3 +71,7 @@ rewrites them under the D187 magic (246). Every other byte is left untouched.
 The script validates that the input is a real F.E.A.R. world (version `113`, with
 plausible decoded counts) before writing, so it will refuse non-Fear input rather
 than corrupt it.
+
+## License
+
+[MIT](LICENSE) © leftspace89
